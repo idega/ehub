@@ -174,6 +174,10 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <groupId>com.idega.block.addon</groupId>
       <artifactId>com.idega.block.caldav</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.addon</groupId>
+      <artifactId>com.idega.block.social</artifactId>
+    </dependency>
     
     <!-- egov modules -->  
     <dependency>

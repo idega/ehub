@@ -134,6 +134,10 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <groupId>com.idega.block.addon</groupId>
       <artifactId>com.idega.block.cal</artifactId>
     </dependency>
+	<dependency>
+      <groupId>com.idega.block.addon</groupId>
+	  <artifactId>com.idega.block.calendar</artifactId>
+	</dependency>
     <dependency>
       <groupId>com.idega.block.addon</groupId>
       <artifactId>com.idega.block.elight</artifactId>
@@ -151,28 +155,8 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <artifactId>com.idega.block.websearch</artifactId>
     </dependency>
     <dependency>
-      <groupId>com.idega.block.addon</groupId>
-      <artifactId>com.idega.block.form</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.addon</groupId>
-      <artifactId>com.idega.formbuilder</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.addon</groupId>
-      <artifactId>org.jboss.jbpm</artifactId>
-    </dependency>
-    <dependency>
     	<groupId>com.idega.block.addon</groupId>
 		<artifactId>com.idega.block.beanshell</artifactId>
-    </dependency>
-    <dependency>
-    	<groupId>com.idega.block.addon</groupId>
-		<artifactId>com.idega.ascertia</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.addon</groupId>
-      <artifactId>com.idega.block.caldav</artifactId>
     </dependency>
     <dependency>
       <groupId>com.idega.block.addon</groupId>
@@ -194,10 +178,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
     <!-- egov modules -->  
     <dependency>
       <groupId>com.idega.block.egov</groupId>
-      <artifactId>is.idega.idegaweb.egov.cases</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.egov</groupId>
       <artifactId>is.idega.idegaweb.egov.citizen</artifactId>
     </dependency>
     <dependency>
@@ -211,14 +191,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
     <dependency>
       <groupId>com.idega.block.egov</groupId>
       <artifactId>is.idega.block.family</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.egov</groupId>
-      <artifactId>is.idega.idegaweb.egov.bpm</artifactId>
-    </dependency>
-	<dependency>
-      <groupId>com.idega.block.egov</groupId>
-      <artifactId>is.idega.idegaweb.egov.xformscase</artifactId>
     </dependency>
     <dependency>
       <groupId>com.idega.block.egov</groupId>

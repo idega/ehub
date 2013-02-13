@@ -174,10 +174,10 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 		<groupId>com.idega.block.addon</groupId>
 		<artifactId>com.idega.mobile</artifactId>
 	</dependency>
-	<dependency>
+<!--	<dependency>
 		<groupId>com.idega.block.addon</groupId>
 		<artifactId>com.idega.bedework</artifactId>
-	</dependency>
+	</dependency>-->
     
     <!-- egov modules -->  
     <dependency>
@@ -196,8 +196,10 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
       <groupId>com.idega.block.egov</groupId>
       <artifactId>is.idega.block.family</artifactId>
     </dependency>
+    
+    <!-- Private modules -->
     <dependency>
-      <groupId>com.idega.block.egov</groupId>
+      <groupId>com.idega.block.private</groupId>
       <artifactId>is.idega.block.pki</artifactId>
     </dependency>
     <dependency>

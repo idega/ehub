@@ -1,0 +1,17 @@
+{
+	"id":"2",
+	"subject":"Barchelor work",
+	"body":"This work begins with...",
+	"created":"May 9, 2001 12:00:00 AM",
+	"sender":{
+		"id":"6",
+		"email":"martynas@idega.com",
+		"name":"Martynas"
+	},
+	"receivers":[{
+		"id":"6",
+		"email":"martynas@idega.com",
+		"name":"Martynas"
+	}],
+	"read":false
+}

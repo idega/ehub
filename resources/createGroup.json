@@ -1,0 +1,10 @@
+{
+	"name": "Some group name",
+	"contacts": [{
+		"contactUserID": 6,
+		"name": "Some contact name"
+	}, {
+		"contactUserID": 7,
+		"name": "Some other contact name"
+	}]
+}

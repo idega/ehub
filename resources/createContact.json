@@ -1,4 +1,6 @@
 {
-	"contactUserID": 7,
-	"name": "magical contact"
+	"name": "magical contact",
+	"phone": "1234567890",
+	"email": "my.email@ehub.com",
+	"group": "Group of wizards"
 }

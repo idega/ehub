@@ -1,10 +1,10 @@
 {
-	"name": "Some group name",
+	"name": "Group name 11",
 	"contacts": [{
-		"contactUserID": 6,
+		"contactUserID": 1234567891,
 		"name": "Some contact name"
 	}, {
-		"contactUserID": 7,
+		"contactUserID": 14210311241,
 		"name": "Some other contact name"
 	}]
 }

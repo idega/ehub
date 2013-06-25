@@ -2,10 +2,6 @@
 	"subject":"Barchelor work",
 	"body":"This work begins with...",
 	"created":"May 9, 2001 12:00:00 AM",
-	"sender":{
-		"id":"1234567891",
-		"name":"Martynas"
-	},
 	"receivers":[{
 		"id":"14210311241",
 		"name":"Arnas"

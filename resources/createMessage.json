@@ -3,7 +3,7 @@
 	"body":"This work begins with...",
 	"created":"May 9, 2001 12:00:00 AM",
 	"receivers":[{
-		"id":"14210311241",
+		"email":"arnas@idega.com",
 		"name":"Arnas"
 	}],
 	"read":false

@@ -1,0 +1,16 @@
+[{
+        "id":1,
+        "serviceProviderId":"9027799602284100608",
+        "name":"Rafræn Reykjavík",
+        "url":"http://rafraen.reykjavik.is/",
+        "iconURI":"http://rafraen.reykjavik.is/content/files/public/logo.gif",
+        "requiresSecureSession":true,
+        "subscribed":false,
+        "subscribersIDs":[
+                "560401-xxxx",
+                "0202774919",
+                "5604010255",
+                "37002030309",
+                "7703147848"
+        ]
+}]

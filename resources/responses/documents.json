@@ -1,0 +1,16 @@
+[
+        {
+                "submittedByName":"Martynas",                           
+                "iconURI":"http://ehub.sidan.is/idegaweb/bundles/org.jboss.jbpm.bundle/resources/images/pdf.gif",
+                "owner":{
+                        "id":"32",
+                        "email":"martynas@idega.com",
+                        "name":"Martynas",
+                        "address":"Iceland"
+                },
+                "id":"41",
+                "name":"Development fund",
+                "viewUri":"http://ehub.sidan.is/servlet/MediaServlet/?wrcls\u003d57615003-880f-48f4-9c1e-708fc2624cc7\u0026idega_session_id\u003dEA2E1A3175E05673B5D62717D0E0A18F\u0026iw_language\u003den\u0026taskInstanceId\u003d41",
+                "created":"May 21, 2013 10:04:51 AM"
+        }
+]

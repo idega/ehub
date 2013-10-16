@@ -1,0 +1,19 @@
+[       
+        {
+                "id":3,
+                "name":"Group name 11",
+                "contacts":[{
+                        "id":6,
+                        "contactUserID":"1234567891",
+                        "name":"Some contact name",
+                        "group":"Group name 11",
+                        "ownerID":"1234567891"
+                },{
+                        "id":5,
+                        "contactUserID":"14210311241",
+                        "name":"Some other contact name",
+                        "group":"Group name 11",
+                        "ownerID":"1234567891"
+                }]
+        }
+]

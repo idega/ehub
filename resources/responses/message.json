@@ -1,0 +1,20 @@
+[{
+        "id":"5",
+        "subject":"Barchelor work",
+        "body":"This work begins with...",
+        "sender":{
+                "id":"11",
+                "email":"idega@idega.com",
+                "name":"Bpm User",
+                "address":"Iceland"
+        },
+        "receivers":[
+                {
+                        "id":"32",
+                        "email":"martynas@idega.com",
+                        "name":"Martynas",
+                        "address":"Iceland"
+                }
+        ],
+        "read":false
+}] 
